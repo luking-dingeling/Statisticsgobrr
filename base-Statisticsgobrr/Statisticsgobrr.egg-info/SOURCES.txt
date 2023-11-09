@@ -1,0 +1,7 @@
+setup.py
+Statisticsgobrr/__init__.py
+Statisticsgobrr/deriv.py
+Statisticsgobrr.egg-info/PKG-INFO
+Statisticsgobrr.egg-info/SOURCES.txt
+Statisticsgobrr.egg-info/dependency_links.txt
+Statisticsgobrr.egg-info/top_level.txt
